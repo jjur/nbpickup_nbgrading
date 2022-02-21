@@ -4,4 +4,5 @@ seaborn
 pandas
 nbgrader
 asyncio
+watchdog
 jupyter-client==6.1.12
