@@ -2,5 +2,6 @@ numpy
 matplotlib
 seaborn
 pandas
-nbgrader==0.9
+nbgrader
+nbpickup==0.9
 asyncio
