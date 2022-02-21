@@ -4,4 +4,4 @@ seaborn
 pandas
 nbgrader
 asyncio
-jupyter==6.1.12
+jupyter-client==6.1.12
